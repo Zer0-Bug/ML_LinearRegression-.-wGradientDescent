@@ -1,2 +1,2 @@
 # ML_LinearRegression-.-wGradientDescent
- Improved a linear regression model with gradient descent.
+ The primary goal of this project is to implement a simple linear regression model using gradient descent optimization. The model aims to predict house prices based on a single feature derived from a dataset. This project will process training and test data, standardize the features, and visualize the performance of the model through various plots. Ultimately, we aim to determine the optimal weights for our model while minimizing the cost function.
